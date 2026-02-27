@@ -33,5 +33,5 @@ Furthermore, we apply **Commandment #7** from the "8 Commandments of Reliability
 ---
 
 ## 5. Architectural Diagram
+![Diagram](https://github.com/user-attachments/assets/db63b5c2-ce54-495c-9470-f16065b243a7)
 
-![Uber Rider Request Reliability Diagram](diagram.jpg)
